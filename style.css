@@ -338,6 +338,13 @@ body {
   -webkit-animation-delay: 4.5s;
           animation-delay: 4.5s;
 }
+.kirmizi {
+  color: red;
+}
+
+.logo-renk {
+  color: #90d0cd;
+}
 
 .tree__container {
   width: 100%;
@@ -557,4 +564,16 @@ body {
     -webkit-transform: rotateY(45deg) translateX(-50%);
             transform: rotateY(45deg) translateX(-50%);
   }
+}
+
+.webmaster {
+  position: fixed;
+  bottom: 1px;
+  right: 1%;
+}
+
+.webmaster-mail {
+  color: white;
+  font-style: normal;
+  text-decoration: none;
 }

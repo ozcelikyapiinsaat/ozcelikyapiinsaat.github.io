@@ -568,8 +568,8 @@ body {
 
 .webmaster {
   position: fixed;
-  bottom: 1px;
-  right: 1%;
+  bottom: 5px;
+  right: 10px;
 }
 
 .webmaster-mail {
